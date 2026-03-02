@@ -1,2 +1,0 @@
-# CodePath-Project
-Web Development
